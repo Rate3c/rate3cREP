@@ -1,4 +1,2 @@
 C:\Users\evgen\source\repos\lab4\Debug\bubblesort.exe
 C:\Users\evgen\source\repos\lab4\Debug\bubblesort.pdb
-D:\GitHub\Nesterov\rate3cREP\lab4\Debug\bubblesort.exe
-D:\GitHub\Nesterov\rate3cREP\lab4\Debug\bubblesort.pdb
