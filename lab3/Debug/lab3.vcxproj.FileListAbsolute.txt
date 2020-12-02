@@ -1,0 +1,2 @@
+D:\GitHub\Nesterov\rate3cREP\lab3\Debug\lab3.exe
+D:\GitHub\Nesterov\rate3cREP\lab3\Debug\lab3.pdb
