@@ -1,0 +1,2 @@
+C:\Users\evgen\source\repos\lab4\Debug\bubblesort.exe
+C:\Users\evgen\source\repos\lab4\Debug\bubblesort.pdb
